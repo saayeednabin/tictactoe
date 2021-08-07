@@ -7,3 +7,7 @@ Steps:
 4. Computer will enter the next symbol/2nd block filled.
 5. Enter the second symbol by the player/3rd block filled.
 6. Computer will enter the second symbol/4th block filled.
+7. Enter the third symbol by the player/5th block filled.
+8. Player wins.
+9. Cross the line.
+10. Game over.
